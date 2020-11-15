@@ -1,0 +1,20 @@
+{
+  "name": "@SaulReznik/chat-mongo-models",
+  "version": "1.0.0",
+  "description": "Mongo DB Models for Chat homework",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/SaulReznik/chat-mongo-models.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hovhannisyan",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "mongoose": "^5.10.14"
+  }
+}
