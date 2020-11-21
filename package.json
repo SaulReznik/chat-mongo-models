@@ -1,6 +1,6 @@
 {
   "name": "@SaulReznik/chat-mongo-models",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Mongo DB Models for Chat homework",
   "main": "index.js",
   "repository": {
